@@ -1,0 +1,1 @@
+This is the sketch that gives us the bridge sounds loop, plus the red alert (triggered by a pushbutton) that plays three times and then the bridge loop begins again.  Holding down the pushbutton mutes all sounds.
