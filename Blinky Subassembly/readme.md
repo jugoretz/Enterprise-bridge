@@ -1,0 +1,1 @@
+This is the sketch that gives us all the blinking lights for the consoles.  Each set of LEDs has a color, randomly dispersed in each console.  Three colors total.  The sketch gives us a random pattern where two colors of any set of three are lit at a time. 

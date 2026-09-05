@@ -1,0 +1,1 @@
+This is the sketch that gives us the tiny moire screen above one of the consoles.  Just a moire pattern.

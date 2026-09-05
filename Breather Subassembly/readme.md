@@ -1,0 +1,1 @@
+This is the sketch that gives us the breathing blue glow in Spock's viewer at his console.
